@@ -42,3 +42,4 @@ D:\PJATK\APBD\Tutorial5\Tutorial4\obj\Debug\net9.0\refint\Tutorial4.dll
 D:\PJATK\APBD\Tutorial5\Tutorial4\obj\Debug\net9.0\Tutorial4.pdb
 D:\PJATK\APBD\Tutorial5\Tutorial4\obj\Debug\net9.0\Tutorial4.genruntimeconfig.cache
 D:\PJATK\APBD\Tutorial5\Tutorial4\obj\Debug\net9.0\ref\Tutorial4.dll
+D:\PJATK\APBD\Tutorial5\Tutorial4\obj\Debug\net9.0\Tutorial4.sourcelink.json
